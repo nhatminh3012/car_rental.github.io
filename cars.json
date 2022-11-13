@@ -1,0 +1,114 @@
+[{
+  "category": "wagon",
+  "available": true,
+  "brand": "BMW",
+  "year": 2013,
+  "mileage": 10000,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 240,
+  "description": "BMW 320i",
+  "model": "320i"
+},
+{
+  "category": "sedan",
+  "available": true,
+  "brand": "Toyota",
+  "year": 2013,
+  "mileage": 85364,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 240,
+  "description": "Toyota camry",
+  "model": "Camry"
+},
+{
+  "category": "suv",
+  "available": true,
+  "brand": "Chevrolet",
+  "year": 2015,
+  "mileage": 21600,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 140,
+  "description": "Chevrolet Captiva",
+  "model": "Captiva"
+}, {
+  "category": "wagon",
+  "available": true,
+  "brand": "Jeep",
+  "year": 2016,
+  "mileage": 15000,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 220,
+  "description": "Jeep Cherokee",
+  "model": "Cherokee"
+}, {
+  "category": "sedan",
+  "available": false,
+  "brand": "Honda",
+  "year": 2018,
+  "mileage": 10000,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 220,
+  "description": "Honda Civic",
+  "model": "Civic"
+}, {
+  "category": "suv",
+  "available": true,
+  "brand": "Mercedes",
+  "year": 2013,
+  "mileage": 12700,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 200,
+  "description": "Mercedes GLC",
+  "model": "GLC"
+}, {
+  "category": "wagon",
+  "available": true,
+  "brand": "Volkswagen",
+  "year": 2017,
+  "mileage": 10000,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 180,
+  "description": "Volkswagen Golf",
+  "model": "Golf"
+}, {
+  "category": "sedan",
+  "available": false,
+  "brand": "Suzuki",
+  "year": 2011,
+  "mileage": 10000,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 310,
+  "description": "Suzuki Jimny",
+  "model": "Jimny"
+}, {
+  "category": "suv",
+  "available": true,
+  "brand": "Huyndai",
+  "year": 2013,
+  "mileage": 10000,
+  "fuelType": "petrol",
+  "seats": 5,
+  "price": 120,
+  "description": "Huyndai Sonata",
+  "model": "Sonata"
+}, {
+  "category": "sedan",
+  "available": false,
+  "brand": "Nissan",
+  "year": 2015,
+  "mileage": 36782,
+  "fuelType": "petrol",
+  "seats": 7,
+  "price": 360,
+  "description": "Nissan X-trail",
+  "model": "X-trail"
+}
+]
